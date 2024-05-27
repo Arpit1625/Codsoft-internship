@@ -1,4 +1,4 @@
-This is the repository that conatains all the projects that i did while working as a java programming intern in CODSOFT.
+This is the repository that conatains all the projects that I did while working as a java programming intern in CODSOFT.
 Project names are as follows:-
 
 
